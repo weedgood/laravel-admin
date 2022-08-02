@@ -1,6 +1,6 @@
 {
-    "name": "encore/laravel-admin",
-    "description": "laravel admin",
+    "name": "weedgood/laravel-admin",
+    "description": "fork from laravel admin, fix some issues",
     "type": "library",
     "keywords": ["laravel", "admin", "grid", "form"],
     "homepage": "https://github.com/z-song/laravel-admin",
